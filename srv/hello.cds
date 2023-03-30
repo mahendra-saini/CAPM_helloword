@@ -1,3 +1,3 @@
 service helloser {
-    function hello (to:String) returns String;
+    function hello (msg:String) returns String;
 }
